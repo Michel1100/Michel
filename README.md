@@ -6,6 +6,6 @@
 - 🔭 Atualmente curso desenvolvimento de sistemas na Etec professor horácio augusto da silveira.
 - 🌱 Estou aprendendo html,css e javascript.
 - 👯 Quero trabalhar na area de programação.
-- 📫 CONTATO:hENRIQUEMICHEL10@GMAIL.COM
+- 📫 CONTATO:henriquemichel10@gmail.com
 - 😄 Pronomes: Ele/Dele
 
